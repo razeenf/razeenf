@@ -13,10 +13,8 @@ I'm quite interested in machine learning and artifiical intelligence howver I am
 
 ## Expertise 🛠️
 
-* Java     
-* Python        
+* Java             
 * C/C++     
-* JavaScript   
 * HTML/CSS    
 * Linux 
 
