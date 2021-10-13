@@ -20,7 +20,7 @@ I'm quite interested in machine learning and artifiical intelligence howver I am
 
 ## Contacts 📫
 
-* [Website](http://razeenf.com)
+* [Website](http://razeenf.me)
 * [LinkedIn](https://www.linkedin.com/in/razeenf/)
 * [Email](http://razeenfaruque@gmail.com/)
 
