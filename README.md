@@ -6,9 +6,7 @@ I'm Razeen, a 3rd year Computer Engineering student at Ryerson.
 <summary>About Me</summary>
 <br>
   
-I have a passion for computers, I like developing apps as well as working with microcontrollers. I've built some personal and academic projects all of which can be found here on my Github. 
-
-I'm quite interested in machine learning and artifiical intelligence howver I am still in the process of learning more about it, I enjoy learning about computer technology and picking up new skills and hobbies along the way. 
+I have a passion for computers. I enjoy programming, building things using parts such as microcontrollers and overall learning more about computers. I've built some personal and academic projects all of which can be found here on my Github, these projects have allowed me to apply what I've learned in my program and to further my knowledge and sharpen my skills.
 </details>
 
 ## Expertise 🛠️
