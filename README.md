@@ -20,7 +20,7 @@ I have a passion for computers. I enjoy programming, building things using parts
 
 * [Website](http://razeenf.me)
 * [LinkedIn](https://www.linkedin.com/in/razeenf/)
-* [Email](http://razeenfaruque@gmail.com/)
+* razeen.faruque@ryerson.ca
 
 
 <!--
