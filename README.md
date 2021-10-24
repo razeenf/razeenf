@@ -11,7 +11,12 @@ I have a passion for computers. I enjoy programming, building things using parts
 
 ## Expertise 🛠️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razeenf&layout=compact&exclude_repo=General-Purpose-Processor)](https://github.com/anuraghazra/github-readme-stats)
+* Python
+* C/C++
+* HTML/CSS
+* Linux
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razeenf&layout=compact&exclude_repo=General-Purpose-Processor)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## Contacts 📫
