@@ -11,7 +11,7 @@ I have a passion for computers. I enjoy programming, building things using parts
 
 ## Expertise 🛠️
 
-* Python
+* Java
 * C/C++
 * HTML/CSS
 * Linux
