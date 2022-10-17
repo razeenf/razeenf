@@ -11,20 +11,18 @@ I have a passion for computers. I enjoy programming, building things using parts
 
 ## Expertise 🛠️
 
-* Java
+* Python
 * C/C++
-* HTML/CSS
 * Linux
+* HTML/CSS
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razeenf&layout=compact&exclude_repo=General-Purpose-Processor)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## Contacts 📫
 
-* [Website](http://razeenf.me)
+* [Website](http://razeenf.xyz)
 * [LinkedIn](https://www.linkedin.com/in/razeenf/)
-* razeen.faruque@ryerson.ca
-
 
 <!--
 **razeenf/razeenf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
