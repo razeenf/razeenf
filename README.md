@@ -1,20 +1,14 @@
 ## Hello! 👋
 
-I'm Razeen, a 3rd year Computer Engineering student at Ryerson.
+I am a 3rd year Computer Engineering Student at Ryerson University. I am passionate about technology both in terms of software and hardware. I enjoy coding and building things, which has led to the creation of many projects; allowing me to apply what I have learned and to learn even more.
 
-<details>
-<summary>About Me</summary>
-<br>
-  
-I have a passion for computers. I enjoy programming, building things using parts such as microcontrollers and overall learning more about computers. I've built some personal and academic projects all of which can be found here on my Github, these projects have allowed me to apply what I've learned in my program and to further my knowledge and sharpen my skills.
-</details>
 
 ## Expertise 🛠️
 
-* Python
-* C/C++
-* Linux
-* HTML/CSS
+* Software Development
+* Cloud Computing 
+* Python/JavaScript/C
+* Linux 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razeenf&layout=compact&exclude_repo=General-Purpose-Processor)](https://github.com/anuraghazra/github-readme-stats)-->
 
