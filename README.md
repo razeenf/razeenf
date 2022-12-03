@@ -7,7 +7,7 @@ I am a 3rd year Computer Engineering Student at Ryerson University. I am passion
 
 * Software Development
 * Cloud Computing 
-* Python/JavaScript/C
+* Python/JavaScript/C++
 * Linux 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razeenf&layout=compact&exclude_repo=General-Purpose-Processor)](https://github.com/anuraghazra/github-readme-stats)-->
