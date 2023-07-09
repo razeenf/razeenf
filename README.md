@@ -1,7 +1,6 @@
 ## Hello! 👋
 
-I am a 3rd year Computer Engineering Student at Ryerson University. I am passionate about technology both in terms of software and hardware. I enjoy coding and building things, which has led to the creation of many projects; allowing me to apply what I have learned and to learn even more.
-
+I'm a third-year Computer Engineering student at Toronto Met University with a passion for both software and hardware technology. I enjoy coding and building stuff, which has led to the creation of many projects; allowing me to continuously apply and expand my knowledge.
 
 ## Expertise 🛠️
 
