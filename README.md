@@ -7,7 +7,7 @@ Work Experience:
 - Cloud Automation Engineer Intern at AMD 
 - Research Assistant at Ryerson University
  
-Connect with me: [![Website](https://img.shields.io/badge/Website-%23FF8C00.svg?logo=google-chrome&logoColor=white)](https://www.razeenf.com)
+Connect with me: [![Website](https://img.shields.io/badge/Website-%6aa84f.svg?logo=google-chrome&logoColor=white)](https://www.razeenf.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/razeenf)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:razeenfaruque@gmail.com)
 
