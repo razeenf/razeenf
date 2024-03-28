@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=&weight=900&size=30&pause=1000&color=8EAEBB&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Hello+World%2C+I%27m+Razeen!"/>
+<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=A8D6FF&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Razeen!"/>
 <br><br>
 <pre>
-    👨‍🎓 Comp Eng @ TMU • Software Developer • Platform Engineer
-    💼 Software Developer @ SOTI • Sofware Engineer @ AMD 
+    👨‍🎓 Computer Engineering @ TMU • Software Engineer 
+    💼 Software Dev @ SOTI • Software Engineer @ AMD 
     📖 Software architecture • Distributed systems • HPC
     🎮 Computers • Games • Programming • Design
 </pre>
