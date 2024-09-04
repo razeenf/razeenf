@@ -4,7 +4,6 @@
 <pre>
     👨‍🎓 Computer Engineering @ TMU • Software Engineer 
     💼 Software Dev @ SOTI • Software Engineer @ AMD 
-    📖 Software architecture • Distributed systems • HPC
     🎮 Computers • Games • Programming • Design
 </pre>    
 
