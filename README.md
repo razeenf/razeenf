@@ -34,7 +34,6 @@
   "hobbies": [
     "Gym"
     "Gaming",
-    "Biking",
   ]
 }
 
