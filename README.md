@@ -10,6 +10,10 @@
   },
   "experiences": [
     {
+      "company": "Amazon",
+      "role": "Software Engineer",
+    },
+    {
       "company": "Shopify",
       "role": "Software Engineer Intern",
     },
@@ -28,12 +32,14 @@
   ],
   "languages": [
     "Python",
-    "TypeScript",
-    "C#"
+    "React",
+    "Java"
   ],
   "hobbies": [
+    "Biking"
+    "Hiking",
     "Gym"
-    "Gaming",
+    "Fromsoft Games"
   ]
 }
 
