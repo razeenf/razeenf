@@ -3,7 +3,6 @@
 ```json
 {
   "alias": "razeenf",
-  "major": "Computer Engineering",
   "contact": {
     "linkedin": "https://www.linkedin.com/in/razeenf",
     "website": "https://www.razeenf.ca"
@@ -25,21 +24,16 @@
       "company": "AMD",
       "role": "Software Engineer Intern",
     },
+  ],
+  "projects": [
     {
-      "company": "Toronto Metropolitan University",
-      "role": "Research Assistant",
-    }
-  ],
-  "languages": [
-    "Python",
-    "React",
-    "Java"
-  ],
-  "hobbies": [
-    "Biking"
-    "Hiking",
-    "Gym"
-    "Fromsoft Games"
+      "name": "Colligo",
+      "link": "https://www.colligo.jobs",
+    },
+    {
+      "name": "Simvest",
+      "link": "https://www.simvest.io",
+    },
   ]
 }
 
