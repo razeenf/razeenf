@@ -5,7 +5,7 @@
   "alias": "razeenf",
   "contact": {
     "linkedin": "https://www.linkedin.com/in/razeenf",
-    "website": "https://www.razeenf.ca"
+    "website": "https://www.razeenf.com"
   },
   "experiences": [
     {
